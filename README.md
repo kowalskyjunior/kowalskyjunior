@@ -7,7 +7,7 @@
 </div>
   <hr>
 <div>  
-  <h2>Conhecimento nas tecnologias ⬇️</h2>
+  <h2 align="center">Conhecimento nas tecnologias ⬇️</h2>
 </div> 
 <div align="center"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
