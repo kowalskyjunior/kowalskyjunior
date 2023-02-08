@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-##  
+<hr>  
 <div>  
   <h2 align="center" margin="0 auto">Conhecimento nas Tecnologias ⬇️</h2>
 </div> 
