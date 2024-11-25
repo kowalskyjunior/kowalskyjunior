@@ -23,7 +23,8 @@
 
   ## Estou aprendendo ⬇️
 <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+<i class="devicon-microsoftsqlserver-plain-wordmark"></i>
+          
 
 <hr>
 
