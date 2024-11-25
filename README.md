@@ -7,7 +7,7 @@
   
 <hr>  
 
-  ## Tecnologias ⬇️
+  <h2 font-size="50px">Tecnologias ⬇️</h2>
 
   <div display="flex" flex-direction="row">
     <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
 
   <hr>
 
-  ## Estou aprendendo ⬇️
+  <h2 font-size="50px">Estou aprendendo ⬇️</h2>
 <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 
