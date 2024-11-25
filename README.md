@@ -9,8 +9,7 @@
 <hr>  
 
   <h2 align="center" margin="0 auto">Conhecimento nas Tecnologias ⬇️</h2>
-
-<hr>  
+  
 <div align="center"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
