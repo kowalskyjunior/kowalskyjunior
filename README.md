@@ -1,4 +1,4 @@
-##  Olá, eu sou o Kowalsky! 👋
+##  Olá, me chamo Kowalsky! 👋
   
 <div align="center">
   <a href="https://github.com/kowalskyjunior">
