@@ -1,4 +1,4 @@
-##  Olá, me chamo Kowalsky! 👋
+#  Olá, me chamo Kowalsky! 👋
   
   <a href="https://github.com/kowalskyjunior">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
   
 <hr>  
 
-  <h2 font-size="50px">Tecnologias ⬇️</h2>
+  # Tecnologias ⬇️
 
   <div display="flex" flex-direction="row">
     <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
 
   <hr>
 
-  <h2 font-size="50px">Estou aprendendo ⬇️</h2>
+  # Estou aprendendo ⬇️
 <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 
