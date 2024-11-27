@@ -1,12 +1,10 @@
 #  Olá, me chamo Kowalsky! 👋
   
   <a href="https://github.com/kowalskyjunior">
-  <div display="flex"> 
-    <div justify-content="space-between">
+  <div display="flex" justify-content="space-between"> 
       <img height="200px" width="500px" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&langs_count=7&theme=dark"/>
     </div>
-  </div>
   
 <hr>  
 
