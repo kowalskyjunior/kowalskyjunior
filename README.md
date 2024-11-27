@@ -1,34 +1,23 @@
-#  Olá, me chamo Kowalsky! 👋
+<div align='center'>
+
+<div align="center">  
   
-  <a href="https://github.com/kowalskyjunior">
-  <div display="flex" flex-direction="row" flex="1 1"> 
-      <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
-<hr>  
-
-  # Tecnologias ⬇️
-
-  <div display="flex" flex-direction="row">
-    <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-    <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  </div>
-
-
-  <hr>
-
-  # Estou aprendendo ⬇️
-<img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-
-<hr>
-
-<div display="flex">
-    <a href="https://instagram.com/kowalskyjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"                 target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kowalskyjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"             target="_blank"></a> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
 </div>
+
+</div>
+
+## Linguagens e Ferramentas:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,angular,php,laravel,py,vscode,figma,git,github,mysql&theme=dark" />
+
+## Sobre mim
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Mão com Dedos Espalmados Tom de Pele Claro" width="25" height="25" /> Olá! Meu nome é Kowalsky Júnior e eu sou um Desenvolvedor Full-stack! <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25" height="25" /> Atualmente, trabalho como desenvolvedor de Software.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Homem Tecnólogo Tom de Pele Claro" width="25" height="25" /> Minha principal stack é HTML, CSS, JavaScript, TypeScript, React, Angular, PHP, Laravel.<br />
+
+<br />
