@@ -2,8 +2,8 @@
   
   <a href="https://github.com/kowalskyjunior">
   <div display="flex" flex-direction="row" flex="1 1"> 
-      <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&langs_count=7&theme=dark"/>
+      <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&langs_count=7&theme=dark"/>
     </div>
   
 <hr>  
