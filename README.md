@@ -19,8 +19,8 @@ Trabalho com atenção à qualidade e sigo princípios sólidos de engenharia de
  ✨ **Performance, segurança e otimização contínua**  
  ✨ **Entrega de soluções estáveis, claras e bem estruturadas**  
 
-Atualmente atuo como **Desenvolvedor de Software**, contribuindo em projetos que exigem visão técnica,  
-responsabilidade e melhoria constante.
+Atualmente, atuo como **Desenvolvedor de Software**, contribuindo para projetos que valorizam qualidade técnica, responsabilidade e melhoria contínua.
+
 ---
 ## 🧰 Habilidades Principais
 
