@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor **Full-stack** focado em criar soluções completas e eficientes —  
+Sou um desenvolvedor **Full-stack** focado em criar soluções completas e eficientes  
 atuando tanto no **frontend**, voltado à experiência do usuário, quanto no **backend**, orientado à performance e estabilidade.
 
 Trabalho com atenção à qualidade e sigo princípios sólidos de engenharia de software, priorizando:
