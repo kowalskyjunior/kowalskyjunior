@@ -3,8 +3,6 @@
 # 👋 Olá! Eu sou o **Kowalsky Júnior**
 ### Desenvolvedor Full-Stack | Criador de Soluções Digitais
 
----
-
 ## 🚀 Sobre mim
 
 - 👨‍💻 Desenvolvedor **Full-stack**, focado em criar interfaces modernas e backends sólidos.  
