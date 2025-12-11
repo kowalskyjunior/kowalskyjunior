@@ -4,21 +4,24 @@
 ### Desenvolvedor Full-Stack | Criador de Soluções Digitais
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=80F7D4&size=24&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia+e+inovação;Sempre+evoluindo+como+profissional+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?color=80F7D4&size=24&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full-Stack;Comprometido+com+excelência+técnica;Sempre+evoluindo+profissionalmente+🚀" />
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor **Full-stack** apaixonado por criar soluções completas —  
-do **frontend moderno** ao **backend robusto**, sempre focado em:
+Sou um desenvolvedor **Full-stack** com foco em construir soluções completas e eficientes, atuando desde o  
+**frontend moderno**, centrado na experiência do usuário, até o **backend robusto**, orientado à performance.
 
-✨ Experiência do usuário  
-✨ Boas práticas de desenvolvimento  
-✨ Performance e otimização  
+Trabalho com atenção à qualidade e aos princípios da engenharia de software, priorizando:
+
 ✨ Arquitetura limpa e escalável  
+✨ Boas práticas e padrões de projeto  
+✨ Performance, segurança e otimização  
+✨ Entrega de soluções estáveis e bem estruturadas  
 
-Atualmente atuo como **Desenvolvedor de Software**, trabalhando com tecnologias atuais e entregando soluções de qualidade.
+Atualmente atuo como **Desenvolvedor de Software**, colaborando em projetos que exigem visão técnica,  
+responsabilidade e evolução contínua.
 
 ---
 
