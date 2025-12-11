@@ -14,10 +14,10 @@ atuando tanto no **frontend**, voltado à experiência do usuário, quanto no **
 
 Trabalho com atenção à qualidade e sigo princípios sólidos de engenharia de software, priorizando:
 
-- ✨ **Arquitetura limpa e escalável**  
-- ✨ **Boas práticas e padrões de projeto**  
-- ✨ **Performance, segurança e otimização contínua**  
-- ✨ **Entrega de soluções estáveis, claras e bem estruturadas**  
+ ✨ **Arquitetura limpa e escalável**  
+ ✨ **Boas práticas e padrões de projeto**  
+ ✨ **Performance, segurança e otimização contínua**  
+ ✨ **Entrega de soluções estáveis, claras e bem estruturadas**  
 
 Atualmente atuo como **Desenvolvedor de Software**, contribuindo em projetos que exigem visão técnica,  
 responsabilidade e melhoria constante.
