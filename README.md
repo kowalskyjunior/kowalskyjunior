@@ -28,8 +28,6 @@ Atualmente, atuo como **Desenvolvedor de Software**, contribuindo para projetos 
 
 ---
 
-## ✨ Animação das Contribuições
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
