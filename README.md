@@ -230,7 +230,21 @@ Automação, estabilidade e melhoria contínua.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kowalskyjunior&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Troféus do GitHub"/>
+<a href="https://github.com/kowalskyjunior?tab=repositories">
+<img src="https://img.shields.io/github/repos/kowalskyjunior?label=REPOSITÓRIOS&style=for-the-badge&color=1F6FEB" alt="Repositórios"/>
+</a>
+
+<a href="https://github.com/kowalskyjunior?tab=stars">
+<img src="https://img.shields.io/github/stars/kowalskyjunior?label=ESTRELAS&style=for-the-badge&color=161B22" alt="Estrelas"/>
+</a>
+
+<a href="https://github.com/kowalskyjunior?tab=followers">
+<img src="https://img.shields.io/github/followers/kowalskyjunior?label=SEGUIDORES&style=for-the-badge&color=1F6FEB" alt="Seguidores"/>
+</a>
+
+<br><br>
+
+<sub>Os indicadores acima são atualizados automaticamente pelo GitHub.</sub>
 
 </div>
 
@@ -240,7 +254,13 @@ Automação, estabilidade e melhoria contínua.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kowalskyjunior/kowalskyjunior/output/github-contribution-grid-snake.svg" alt="Animação das contribuições"/>
+**Código publicado, projetos mantidos e aprendizado contínuo.**
+
+<br>
+
+<a href="https://github.com/kowalskyjunior?tab=overview">
+<img src="https://img.shields.io/badge/VER%20MINHAS%20CONTRIBUIÇÕES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Ver contribuições"/>
+</a>
 
 </div>
 
@@ -255,11 +275,17 @@ Automação, estabilidade e melhoria contínua.
 
 ### Certificações e cursos
 
-<code>Docker Essentials</code> · <code>Infraestrutura Web</code> · <code>Computação em Nuvem</code>
-
-<code>PHP Jedai</code> · <code>JavaScript Completo</code> · <code>Python Completo</code>
-
-<code>Webmaster Front-End</code> · <code>IoT e Automação</code> · <code>Front-end Web Development</code>
+| Certificação / Curso | Instituição |
+|---|---|
+| **Front-End Web Development** | **IBM** |
+| Docker Essentials | LinuxTips |
+| Infraestrutura Web | Danki Code |
+| Computação em Nuvem | UFAC |
+| PHP Jedai | Danki Code |
+| JavaScript Completo | Danki Code |
+| Python Completo | Danki Code |
+| Webmaster Front-End | Danki Code |
+| IoT e Automação | UFAC |
 
 ---
 
