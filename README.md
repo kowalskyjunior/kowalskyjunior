@@ -82,7 +82,7 @@ O projeto envolve desenvolvimento de interface, gerenciamento de estado, integra
 
 <div align="center">
 
-<img src="https://via.placeholder.com/900x450?text=Zleep+Baby+Preview" alt="Zleep Baby Preview">
+<img src="https://play-lh.googleusercontent.com/lnisPqwozsPFi5XFDbGC_0STaBeoD8qfDy0U_ny4ca-QXcveS6I5AeZCv1G9sS6BFa7PuQzxAZhHmslmkovGKA%3Dw526-h296" alt="Zleep Baby - Tela do aplicativo" width="320">
 
 <br>
 
