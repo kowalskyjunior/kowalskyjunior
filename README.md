@@ -1,78 +1,143 @@
-<h1 align="center">Olá, eu sou o Kowalsky Júnior 👋</h1>
-<h3 align="center">Engenheiro de Software | Full Stack Developer | Mobile Developer</h3>
+<div align="center">
 
-<p align="center">
-  Construo e sustento sistemas corporativos de missão crítica na Caixa Econômica Federal e desenvolvo aplicações mobile end-to-end, publicadas na App Store e na Play Store.
+# Olá, eu sou o Kowalsky Júnior 👋
+
+### Engenheiro de Software · Full Stack Developer · Mobile Developer
+
+Construo soluções de software com foco em **arquitetura, qualidade, escalabilidade e experiência do usuário**, atuando do backend ao frontend e também no desenvolvimento mobile.
+
+<p>
+  <a href="https://www.linkedin.com/in/kowalskyjr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kowalskymesquita.jr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/Rio%20Branco--AC-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Rio Branco - AC">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kowalskyjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kowalskymesquita.jr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Rio%20Branco%20--%20AC-000?style=flat&logo=googlemaps&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 💼 Sobre mim
+## 💼 Sobre mim
 
-Atuo no ciclo completo de desenvolvimento de software em sistemas governamentais e bancários de alta criticidade, da definição arquitetural à sustentação em produção. Desde outubro de 2024, sou Analista de Sistemas / Desenvolvedor Full Stack na **Caixa Econômica Federal**, onde também respondo pela liderança técnica de versionamento (**Git Master**) do time.
+Sou **Analista de Sistemas / Desenvolvedor Full Stack na Caixa Econômica Federal**, atuando no desenvolvimento e sustentação de sistemas corporativos e bancários de alta criticidade.
 
-Fora do trabalho corporativo, desenvolvi e publiquei de forma autônoma o **Zleep Baby**, um app mobile em Flutter para o público parental — do design técnico até a distribuição nas lojas.
+Também exerço a função de **Git Master**, contribuindo com a organização do fluxo de desenvolvimento, estratégia de branches, condução dos merges ao final das Sprints, resolução de conflitos, estabilidade das releases e apoio às revisões técnicas de código.
 
----
+Fora do ambiente corporativo, desenvolvo produtos próprios de ponta a ponta. Um dos principais exemplos é o **Zleep Baby**, aplicativo mobile desenvolvido em Flutter e publicado na App Store e na Google Play.
 
-### 🚀 Projetos em destaque
-
-**🏦 Caixa Econômica Federal** — Analista de Sistemas / Desenvolvedor Full Stack *(atual)*
-Atuação no ciclo completo de desenvolvimento de sistemas corporativos e bancários de alta criticidade: definição arquitetural, otimização de performance, consolidação e processamento de grandes volumes de dados, e sustentação em ambientes de produção com exigência operacional elevada. Também respondo pela liderança técnica de versionamento (**Git Master**) — governança de branches, aprovação de Merge Requests e garantia de qualidade das entregas via CI/CD.
-
-> Por se tratar de sistemas internos de uma instituição financeira federal, detalhes específicos não são divulgados publicamente aqui. Posso falar mais sobre o escopo técnico em conversa direta.
-
-**📱 Zleep Baby** — App mobile (Flutter/Dart)
-Produto voltado ao público parental, desenvolvido e lançado de ponta a ponta: gerenciamento de estado avançado, manipulação de áudio nativo, testes de compatibilidade multi-tela/SO e todo o processo de submissão, signing e publicação na App Store e Play Store.
+> Por se tratar de sistemas internos de uma instituição financeira federal, detalhes específicos dos projetos corporativos não são divulgados publicamente.
 
 ---
 
-### 🛠️ Stack e competências técnicas
+## 🛠️ Tecnologias
 
-**Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Backend
 
-**Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+### Frontend
 
-**Banco de Dados**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**DevOps & Infraestrutura**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+### Mobile
 
-**Arquitetura & Boas Práticas**
-SOLID · Clean Architecture · MVC · Design Patterns · Code Review
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Metodologias Ágeis**
-Scrum · Kanban
+### Banco de Dados
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps & Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Arquitetura & Boas Práticas:** SOLID · Clean Architecture · MVC · Design Patterns · Code Review
+
+**Metodologias:** Scrum · Kanban
 
 ---
 
-### 🎓 Formação e certificações
+## 📱 Projeto em destaque
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas — **UNINORTE**
+### Zleep Baby
+
+Aplicativo mobile desenvolvido em **Flutter/Dart**, criado de ponta a ponta para o público parental.
+
+O projeto envolve desenvolvimento de interface, gerenciamento de estado, integração com recursos nativos, compatibilidade entre diferentes telas e sistemas operacionais, testes e todo o processo de publicação.
+
+<div align="center">
+
+<img src="https://via.placeholder.com/900x450?text=Zleep+Baby+Preview" alt="Zleep Baby Preview">
+
+<br>
+
+<a href="https://play.google.com/store/apps/details?id=br.com.zleepybaby">
+  <img src="https://img.shields.io/badge/Disponível%20na%20Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play">
+</a>
+
+</div>
+
+---
+
+## 🚀 Outros projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **Agendamento de Salas** | Sistema para gerenciamento e agendamento de salas. | PHP · Laravel · Vue |
+| **Live Chat App** | Aplicação de comunicação em tempo real. | React · Node.js |
+| **Contract Generator** | Geração e gerenciamento de contratos. | PHP · Laravel |
+| **Zleep Baby** | Aplicativo mobile voltado ao público parental. | Flutter · Dart |
+
+---
+
+## 🧠 Engenharia de Software
+
+Busco aplicar boas práticas não apenas na implementação, mas em todo o ciclo de desenvolvimento:
+
+- Arquitetura e organização de projetos
+- Clean Code e princípios SOLID
+- Separação de responsabilidades
+- Design Patterns
+- Versionamento e estratégia de branches
+- Code Review
+- Integração e entrega contínuas
+- Desenvolvimento orientado à manutenção e escalabilidade
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalskyjunior&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🎓 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas — UNINORTE**
+
+### Certificações e cursos
+
 - Docker Essentials — LinuxTips
 - Infraestrutura Web — Danki Code
 - Computação em Nuvem — UFAC
@@ -84,10 +149,18 @@ Scrum · Kanban
 
 ---
 
-### 📫 Contato
+## 📫 Vamos conversar?
 
-- 📍 Rio Branco – AC
-- 📱 (68) 99208-5379
-- ✉️ kowalskymesquita.jr@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/kowalskyjr)
-- 💻 [GitHub](https://github.com/kowalskyjunior)
+Se quiser trocar uma ideia sobre desenvolvimento de software, arquitetura, tecnologia ou projetos, fique à vontade para entrar em contato.
+
+<p>
+  <a href="https://github.com/kowalskyjunior">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/kowalskyjr">LinkedIn</a> ·
+  <a href="mailto:kowalskymesquita.jr@gmail.com">Email</a>
+</p>
+
+<div align="center">
+
+**Transformando problemas em software.**
+
+</div>
