@@ -339,7 +339,41 @@ Automação, estabilidade e melhoria contínua.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kowalskyjunior&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de atividade no GitHub"/>
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📈 Atividade
+
+**Contribuições contínuas**
+
+Projetos, estudos e evolução constante através do GitHub.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 Código
+
+**Projetos públicos**
+
+Aplicações desenvolvidas para resolver problemas reais e experimentar novas abordagens.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔗 Perfil
+
+<a href="https://github.com/kowalskyjunior">
+
+<img src="https://img.shields.io/badge/VER%20ATIVIDADE-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Ver atividade no GitHub"/>
+
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
