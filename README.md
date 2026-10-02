@@ -89,6 +89,9 @@ O projeto envolve desenvolvimento de interface, gerenciamento de estado, integra
 <a href="https://play.google.com/store/apps/details?id=br.com.zleepybaby">
   <img src="https://img.shields.io/badge/Disponível%20na%20Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play">
 </a>
+<a href="https://apps.apple.com/br/app/zleep-baby/id6758020397">
+  <img src="https://img.shields.io/badge/Disponível%20na%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store">
+</a>
 
 </div>
 
