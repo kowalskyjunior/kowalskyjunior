@@ -1,136 +1,163 @@
 <div align="center">
 
-# **KOWALSKY JÚNIOR**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=Kowalsky%20Júnior&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=60&descSize=18" width="100%"/>
 
-### Software Engineer · Full Stack · Mobile
+<a href="https://github.com/kowalskyjunior">
+  <img src="https://komarev.com/ghpvc/?username=kowalskyjunior&label=VISITANTES&color=1F6FEB&style=for-the-badge" alt="Visitantes"/>
+</a>
 
-**Building maintainable, scalable and production-ready software.**
+<a href="https://github.com/kowalskyjunior?tab=followers">
+  <img src="https://img.shields.io/github/followers/kowalskyjunior?label=SEGUIDORES&style=for-the-badge&color=161B22&labelColor=1F6FEB" alt="Seguidores"/>
+</a>
+
+</div>
 
 <br>
 
-[ LinkedIn ] · [ GitHub ] · [ Portfolio ] · [ Email ]
+<div align="center">
+
+# 👋 Olá, eu sou o Kowalsky!
+
+### Transformo ideias em software, do primeiro commit à entrega.
+
+**Analista de Sistemas · Desenvolvedor Full Stack · Desenvolvedor Mobile**
 
 <br>
 
-`Brazil` · `Software Engineering` · `Full Stack Development`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowalskyjr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowalskyjunior)
+[![Portfólio](https://img.shields.io/badge/Portfólio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kowalskyjunior.github.io/kowalsky_junior/)
 
 </div>
 
 ---
 
-## ABOUT
+## 🚀 Sobre mim
 
-I’m a **Software Engineer / Systems Analyst** focused on building reliable software across **backend, frontend and mobile**.
+Sou **Analista de Sistemas e Desenvolvedor Full Stack**, com atuação em **backend, frontend, mobile, bancos de dados e processos de desenvolvimento**.
 
-Currently working at **Caixa Econômica Federal**, contributing to corporate systems, development workflows and software engineering practices.
+Atualmente trabalho na **Caixa Econômica Federal**, contribuindo com sistemas corporativos, desenvolvimento de software e organização dos fluxos técnicos da equipe.
 
-I also build products independently, taking projects from **architecture and development to deployment and publication**.
+Também desenvolvo projetos independentes de ponta a ponta — pensando em **arquitetura, experiência, código, banco de dados, testes, deploy e publicação**.
 
----
-
-## ENGINEERING STACK
+> 💡 Gosto de transformar problemas reais em soluções simples, bem estruturadas e sustentáveis.
 
 <div align="center">
 
-### Backend
+### 🎯 Atualmente focado em
 
-`PHP` · `Laravel` · `Node.js` · `Python`
-
-### Frontend
-
-`Vue.js` · `React` · `TypeScript` · `JavaScript`
-
-### Mobile
-
-`Flutter` · `Dart`
-
-### Data · DevOps · Version Control
-
-`SQL Server` · `MySQL` · `Docker` · `Jenkins` · `Git` · `GitHub` · `GitLab`
-
-<br>
-
-**Architecture**
-
-`SOLID` · `Clean Architecture` · `MVC` · `Design Patterns`
-
-**Workflow**
-
-`Git Flow` · `Code Review` · `CI/CD` · `Scrum` · `Kanban`
+**Arquitetura de Software** · **Full Stack** · **Desenvolvimento Mobile** · **Qualidade de Código** · **DevOps**
 
 </div>
 
 ---
 
-# FEATURED PRODUCT
+## 🧰 Minha caixa de ferramentas
 
 <div align="center">
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/95/8c/10958c91-3236-d1fe-817f-de452f3fbb0a/Placeholder.mill/200x200bb-75.webp" width="180">
+### 💻 Desenvolvimento
 
-## **ZLEEP BABY**
-
-### Mobile application · Flutter · Dart
-
-</div>
-
-A mobile application developed **end-to-end**, from interface and application logic to platform integration, testing and publication.
-
-<div align="center">
-
-**Flutter** · **Dart** · **Mobile** · **UX** · **App Distribution**
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,vue,react,ts,js,flutter,dart" />
 
 <br><br>
 
-[ **App Store** ] &nbsp;&nbsp;&nbsp; [ **Google Play** ]
+### 🗄️ Dados · DevOps · Ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,jenkins,git,github,gitlab,vscode,postman" />
+
+<br><br>
+
+### 🏗️ Engenharia
+
+<img src="https://img.shields.io/badge/SOLID-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVC-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Code%20Review-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge&logoColor=white"/>
 
 </div>
 
 ---
 
-# SELECTED WORK
+## 📱 Projeto em destaque
+
+<div align="center">
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/95/8c/10958c91-3236-d1fe-817f-de452f3fbb0a/Placeholder.mill/200x200bb-75.webp" width="150" alt="Zleep Baby"/>
+
+# 💤 Zleep Baby
+
+### Um aplicativo mobile desenvolvido de ponta a ponta.
+
+**Flutter** · **Dart** · **UX** · **Mobile** · **Publicação**
+
+<br>
+
+<a href="https://apps.apple.com/br/app/zleep-baby/id6758020397">
+<img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=br.com.zleepybaby">
+<img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+</a>
+
+</div>
+
+---
+
+## 🧩 Projetos selecionados
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AGENDAMENTO DE SALAS
+### 📅 Agendamento de Salas
 
-Room management and scheduling system.
+Sistema para gerenciamento e agendamento de salas.
 
-`PHP` `Laravel` `Vue`
+**Stack**
+
+<code>PHP</code> · <code>Laravel</code> · <code>Vue</code>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### LIVE CHAT APP
+### 💬 Live Chat App
 
-Real-time communication application.
+Aplicação de comunicação em tempo real.
 
-`React` `Node.js`
+**Stack**
+
+<code>React</code> · <code>Node.js</code>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### CONTRACT GENERATOR
+### 📄 Contract Generator
 
-Application for contract generation and management.
+Aplicação para geração e gerenciamento de contratos.
 
-`PHP` `Laravel`
+**Stack**
+
+<code>PHP</code> · <code>Laravel</code>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ZLEEP BABY
+### 💤 Zleep Baby
 
-Cross-platform mobile application.
+Aplicativo mobile multiplataforma.
 
-`Flutter` `Dart`
+**Stack**
+
+<code>Flutter</code> · <code>Dart</code>
 
 </td>
 </tr>
@@ -138,79 +165,136 @@ Cross-platform mobile application.
 
 ---
 
-# ENGINEERING PRINCIPLES
+## 🧠 Como eu penso software
 
 <div align="center">
 
-**Architecture**  
-Clear responsibilities and well-defined boundaries.
+<table>
+<tr>
+<td align="center" width="25%">
 
-**Code Quality**  
-Clean, readable and maintainable implementations.
+### 🏗️
+**Arquitetura**
 
-**Collaboration**  
-Version control, code review and structured workflows.
+Responsabilidades claras e baixo acoplamento.
 
-**Delivery**  
-Reliable releases through automation and continuous improvement.
+</td>
+<td align="center" width="25%">
 
-</div>
+### 🧹
+**Qualidade**
 
-<br>
+Código legível, testável e sustentável.
 
-<div align="center">
+</td>
+<td align="center" width="25%">
 
-`SOLID` · `Clean Code` · `Separation of Concerns` · `Code Review`  
-`Git Flow` · `CI/CD` · `Maintainability` · `Scalability`
+### 🔀
+**Colaboração**
+
+Git, revisão de código e fluxos organizados.
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**Entrega**
+
+Automação, estabilidade e melhoria contínua.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# GITHUB ACTIVITY
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalskyjunior&theme=github-dark-blue&hide_border=true">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalskyjunior&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&theme=github_dark&hide_border=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
 
 </div>
 
 ---
 
-# EDUCATION
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kowalskyjunior&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Troféus do GitHub"/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kowalskyjunior/kowalskyjunior/output/github-contribution-grid-snake.svg" alt="Animação das contribuições"/>
+
+</div>
+
+---
+
+## 🎓 Formação
 
 ### Tecnólogo em Análise e Desenvolvimento de Sistemas
 **UNINORTE**
 
 <br>
 
-### Additional Education
+### Certificações e cursos
 
-`Docker Essentials` · `Infraestrutura Web` · `Computação em Nuvem`
+<code>Docker Essentials</code> · <code>Infraestrutura Web</code> · <code>Computação em Nuvem</code>
 
-`PHP` · `JavaScript` · `Python` · `Web Development` · `IoT`
+<code>PHP Jedai</code> · <code>JavaScript Completo</code> · <code>Python Completo</code>
+
+<code>Webmaster Front-End</code> · <code>IoT e Automação</code> · <code>Front-end Web Development</code>
+
+---
+
+## 📈 Minha jornada em uma frase
+
+<div align="center">
+
+### **Problema → Arquitetura → Código → Produto → Evolução**
+
+<br>
+
+<code>BACKEND</code> <code>FRONTEND</code> <code>MOBILE</code> <code>DATABASE</code> <code>DEVOPS</code>
+
+</div>
 
 ---
 
 <div align="center">
 
-## LET'S CONNECT
+## 🤝 Vamos conversar?
 
-**Software Engineering · Architecture · Technology · Products**
+Se o assunto envolve **software, arquitetura, desenvolvimento, produtos ou tecnologia**, vamos trocar uma ideia.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowalskyjr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowalskyjunior)
+<a href="https://www.linkedin.com/in/kowalskyjr">
+<img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kowalskyjunior">
+<img src="https://img.shields.io/badge/Explorar%20meus%20projetos-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-`Kowalsky Júnior`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
