@@ -1,149 +1,173 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Kowalsky Júnior
+# **KOWALSKY JÚNIOR**
 
-### Software Engineer · Full Stack Developer · Mobile Developer
+### Software Engineer · Full Stack · Mobile
 
-**Construindo software do backend ao mobile, com foco em arquitetura, qualidade e experiência.**
+**Building maintainable, scalable and production-ready software.**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowalskyjr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowalskyjunior)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowalskymesquita.jr@gmail.com)
+[ LinkedIn ] · [ GitHub ] · [ Portfolio ] · [ Email ]
 
-📍 **Rio Branco, Acre — Brasil**
+<br>
+
+`Brazil` · `Software Engineering` · `Full Stack Development`
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## ABOUT
 
-Sou **Analista de Sistemas / Desenvolvedor Full Stack na Caixa Econômica Federal**, atuando no desenvolvimento e sustentação de sistemas corporativos.
+I’m a **Software Engineer / Systems Analyst** focused on building reliable software across **backend, frontend and mobile**.
 
-Também atuo como **Git Master**, trabalhando com estratégia de branches, organização do fluxo de desenvolvimento, merges, resolução de conflitos e estabilidade das releases.
+Currently working at **Caixa Econômica Federal**, contributing to corporate systems, development workflows and software engineering practices.
 
-Fora do ambiente corporativo, desenvolvo meus próprios produtos **de ponta a ponta**, explorando frontend, backend, mobile, arquitetura e experiência do usuário.
-
-> 💡 Gosto de transformar problemas reais em software simples, organizado e escalável.
+I also build products independently, taking projects from **architecture and development to deployment and publication**.
 
 ---
 
-## 🧰 Tech Stack
-
-### ⚙️ Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 🎨 Frontend
-
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 📱 Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### 🗄️ Database
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🚀 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-**Architecture:** SOLID · Clean Architecture · MVC · Design Patterns  
-**Workflow:** Git Flow · Code Review · CI/CD · Scrum · Kanban
-
----
-
-# 🚀 Featured Project
+## ENGINEERING STACK
 
 <div align="center">
 
-## 📱 Zleep Baby
+### Backend
 
-### Um aplicativo mobile desenvolvido do zero até as lojas.
+`PHP` · `Laravel` · `Node.js` · `Python`
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/95/8c/10958c91-3236-d1fe-817f-de452f3fbb0a/Placeholder.mill/200x200bb-75.webp" alt="Zleep Baby" width="200">
+### Frontend
+
+`Vue.js` · `React` · `TypeScript` · `JavaScript`
+
+### Mobile
+
+`Flutter` · `Dart`
+
+### Data · DevOps · Version Control
+
+`SQL Server` · `MySQL` · `Docker` · `Jenkins` · `Git` · `GitHub` · `GitLab`
 
 <br>
 
-**Flutter · Dart · Mobile · UX · Publicação**
+**Architecture**
 
-Aplicativo desenvolvido de ponta a ponta, envolvendo interface, gerenciamento de estado, integração com recursos nativos, compatibilidade entre plataformas, testes e publicação.
+`SOLID` · `Clean Architecture` · `MVC` · `Design Patterns`
 
-<br>
+**Workflow**
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=br.com.zleepybaby)
-[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/br/app/zleep-baby/id6758020397)
+`Git Flow` · `Code Review` · `CI/CD` · `Scrum` · `Kanban`
 
 </div>
 
 ---
 
-# 💻 Projetos
+# FEATURED PRODUCT
 
 <div align="center">
 
-| 🏢 **Agendamento de Salas** | 💬 **Live Chat App** |
-|:---:|:---:|
-| Sistema para gerenciamento e agendamento de salas. | Aplicação de comunicação em tempo real. |
-| `PHP` `Laravel` `Vue` | `React` `Node.js` |
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/95/8c/10958c91-3236-d1fe-817f-de452f3fbb0a/Placeholder.mill/200x200bb-75.webp" width="180">
 
-| 📄 **Contract Generator** | 📱 **Zleep Baby** |
-|:---:|:---:|
-| Geração e gerenciamento de contratos. | Aplicativo mobile para o público parental. |
-| `PHP` `Laravel` | `Flutter` `Dart` |
+## **ZLEEP BABY**
+
+### Mobile application · Flutter · Dart
+
+</div>
+
+A mobile application developed **end-to-end**, from interface and application logic to platform integration, testing and publication.
+
+<div align="center">
+
+**Flutter** · **Dart** · **Mobile** · **UX** · **App Distribution**
+
+<br><br>
+
+[ **App Store** ] &nbsp;&nbsp;&nbsp; [ **Google Play** ]
 
 </div>
 
 ---
 
-## 🧠 Como penso software
+# SELECTED WORK
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Problem                                    │
-│      ↓                                       │
-│   Architecture                               │
-│      ↓                                       │
-│   Development                                │
-│      ↓                                       │
-│   Testing                                    │
-│      ↓                                       │
-│   Delivery                                   │
-│      ↓                                       │
-│   Continuous Improvement                     │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%">
 
-- 🧩 Separação de responsabilidades
-- 🏗️ Arquitetura organizada
-- ✨ Clean Code
-- 🔐 SOLID
-- 🔄 Versionamento
-- 🔍 Code Review
-- 🚀 CI/CD
-- 📈 Manutenibilidade e escalabilidade
+### AGENDAMENTO DE SALAS
+
+Room management and scheduling system.
+
+`PHP` `Laravel` `Vue`
+
+</td>
+
+<td width="50%">
+
+### LIVE CHAT APP
+
+Real-time communication application.
+
+`React` `Node.js`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### CONTRACT GENERATOR
+
+Application for contract generation and management.
+
+`PHP` `Laravel`
+
+</td>
+
+<td width="50%">
+
+### ZLEEP BABY
+
+Cross-platform mobile application.
+
+`Flutter` `Dart`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub
+# ENGINEERING PRINCIPLES
+
+<div align="center">
+
+**Architecture**  
+Clear responsibilities and well-defined boundaries.
+
+**Code Quality**  
+Clean, readable and maintainable implementations.
+
+**Collaboration**  
+Version control, code review and structured workflows.
+
+**Delivery**  
+Reliable releases through automation and continuous improvement.
+
+</div>
+
+<br>
+
+<div align="center">
+
+`SOLID` · `Clean Code` · `Separation of Concerns` · `Code Review`  
+`Git Flow` · `CI/CD` · `Maintainability` · `Scalability`
+
+</div>
+
+---
+
+# GITHUB ACTIVITY
 
 <div align="center">
 
@@ -159,31 +183,34 @@ Aplicativo desenvolvido de ponta a ponta, envolvendo interface, gerenciamento de
 
 ---
 
-## 🎓 Formação
+# EDUCATION
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas — UNINORTE**
+### Tecnólogo em Análise e Desenvolvimento de Sistemas
+**UNINORTE**
 
-### 📚 Cursos & Certificações
+<br>
 
-`Docker Essentials` · `Infraestrutura Web` · `Computação em Nuvem`  
-`PHP Jedai` · `JavaScript` · `Python` · `Webmaster Front-End` · `IoT`
+### Additional Education
+
+`Docker Essentials` · `Infraestrutura Web` · `Computação em Nuvem`
+
+`PHP` · `JavaScript` · `Python` · `Web Development` · `IoT`
 
 ---
 
 <div align="center">
 
-## 📫 Vamos conversar?
+## LET'S CONNECT
 
-**Desenvolvimento · Arquitetura · Tecnologia · Projetos**
+**Software Engineering · Architecture · Technology · Products**
 
 <br>
 
-[GitHub](https://github.com/kowalskyjunior) ·
-[LinkedIn](https://www.linkedin.com/in/kowalskyjr) ·
-[Email](mailto:kowalskymesquita.jr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowalskyjr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowalskyjunior)
 
 <br><br>
 
-### `Transformando problemas em software.`
+`Kowalsky Júnior`
 
 </div>
