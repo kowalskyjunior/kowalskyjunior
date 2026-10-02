@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=230&section=header&text=Kowalsky%20Júnior&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=61&descSize=18" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=kowalskyjunior&label=VISITANTES&color=1F6FEB&style=for-the-badge" alt="Visitantes"/>
-
 &nbsp;
 
 <img src="https://img.shields.io/github/followers/kowalskyjunior?label=SEGUIDORES&style=for-the-badge&color=161B22&labelColor=1F6FEB" alt="Seguidores"/>
