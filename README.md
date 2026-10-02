@@ -1,113 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=Kowalsky%20Júnior&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=230&section=header&text=Kowalsky%20Júnior&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=61&descSize=18" width="100%"/>
 
-<a href="https://github.com/kowalskyjunior">
-  <img src="https://komarev.com/ghpvc/?username=kowalskyjunior&label=VISITANTES&color=1F6FEB&style=for-the-badge" alt="Visitantes"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=kowalskyjunior&label=VISITANTES&color=1F6FEB&style=for-the-badge" alt="Visitantes"/>
 
-<a href="https://github.com/kowalskyjunior?tab=followers">
-  <img src="https://img.shields.io/github/followers/kowalskyjunior?label=SEGUIDORES&style=for-the-badge&color=161B22&labelColor=1F6FEB" alt="Seguidores"/>
-</a>
+&nbsp;
+
+<img src="https://img.shields.io/github/followers/kowalskyjunior?label=SEGUIDORES&style=for-the-badge&color=161B22&labelColor=1F6FEB" alt="Seguidores"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
-# 👋 Olá, eu sou o Kowalsky!
+# 👋 Olá, eu sou o Kowalsky
 
-### Transformo ideias em software, do primeiro commit à entrega.
+### Software Engineer • Full Stack • Mobile
 
-**Analista de Sistemas · Desenvolvedor Full Stack · Desenvolvedor Mobile**
+**Construo produtos e sistemas pensando além do código.**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowalskyjr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kowalskyjunior)
-[![Portfólio](https://img.shields.io/badge/Portfólio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kowalskyjunior.github.io/kowalsky_junior/)
+<a href="https://www.linkedin.com/in/kowalskyjr">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/kowalskyjunior">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://kowalskyjunior.github.io/kowalsky_junior/">
+<img src="https://img.shields.io/badge/PORTFÓLIO-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+</a>
 
 </div>
 
----
+<br>
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ## 🚀 Sobre mim
 
-Sou **Analista de Sistemas e Desenvolvedor Full Stack**, com atuação em **backend, frontend, mobile, bancos de dados e processos de desenvolvimento**.
+Sou **Analista de Sistemas e Desenvolvedor Full Stack**, com experiência em **backend, frontend, mobile, bancos de dados e processos de desenvolvimento**.
 
-Atualmente trabalho na **Caixa Econômica Federal**, contribuindo com sistemas corporativos, desenvolvimento de software e organização dos fluxos técnicos da equipe.
+Atualmente trabalho na **Caixa Econômica Federal**, contribuindo com sistemas corporativos e práticas de engenharia de software.
 
-Também desenvolvo projetos independentes de ponta a ponta — pensando em **arquitetura, experiência, código, banco de dados, testes, deploy e publicação**.
+Fora do ambiente corporativo, desenvolvo produtos de ponta a ponta: **arquitetura → código → dados → experiência → deploy → publicação**.
 
-> 💡 Gosto de transformar problemas reais em soluções simples, bem estruturadas e sustentáveis.
+</td>
 
-<div align="center">
+<td width="42%" valign="top">
 
-### 🎯 Atualmente focado em
+## 🎯 No momento
 
-**Arquitetura de Software** · **Full Stack** · **Desenvolvimento Mobile** · **Qualidade de Código** · **DevOps**
+**Construindo**
 
-</div>
+🧩 Soluções Full Stack
+
+**Aprofundando**
+
+🏗️ Arquitetura de Software
+
+**Explorando**
+
+📱 Desenvolvimento Mobile
+
+**Praticando**
+
+⚙️ Qualidade · Git · DevOps
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Minha caixa de ferramentas
+# 🛠️ Stack
 
 <div align="center">
 
-### 💻 Desenvolvimento
+### Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,vue,react,ts,js,flutter,dart" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=vue,react,ts,js" />
 
-<br><br>
+### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-### 🗄️ Dados · DevOps · Ferramentas
-
+### Dados · DevOps · Ferramentas
 <img src="https://skillicons.dev/icons?i=mysql,docker,jenkins,git,github,gitlab,vscode,postman" />
 
 <br><br>
 
-### 🏗️ Engenharia
-
-<img src="https://img.shields.io/badge/SOLID-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MVC-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Design%20Patterns-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code%20Review-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOLID-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Code%20Review-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=flat-square"/>
 
 </div>
 
 ---
 
-## 📱 Projeto em destaque
+# 📱 Projeto em destaque
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" align="center" valign="middle">
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/95/8c/10958c91-3236-d1fe-817f-de452f3fbb0a/Placeholder.mill/200x200bb-75.webp" width="150" alt="Zleep Baby"/>
 
-# 💤 Zleep Baby
+</td>
 
-### Um aplicativo mobile desenvolvido de ponta a ponta.
+<td width="75%" valign="top">
 
-**Flutter** · **Dart** · **UX** · **Mobile** · **Publicação**
+## 💤 Zleep Baby
+
+Aplicativo mobile desenvolvido **de ponta a ponta**, utilizando Flutter e Dart.
+
+Do desenvolvimento da experiência e lógica da aplicação à integração com as plataformas e publicação.
+
+**Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" height="38"/>
 
 <br>
 
 <a href="https://apps.apple.com/br/app/zleep-baby/id6758020397">
 <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
 </a>
-
 <a href="https://play.google.com/store/apps/details?id=br.com.zleepybaby">
 <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Projetos selecionados
+# 🧩 Projetos selecionados
 
 <table>
 <tr>
@@ -117,9 +150,7 @@ Também desenvolvo projetos independentes de ponta a ponta — pensando em **arq
 
 Sistema para gerenciamento e agendamento de salas.
 
-**Stack**
-
-<code>PHP</code> · <code>Laravel</code> · <code>Vue</code>
+<code>PHP</code> <code>Laravel</code> <code>Vue</code>
 
 </td>
 
@@ -129,9 +160,7 @@ Sistema para gerenciamento e agendamento de salas.
 
 Aplicação de comunicação em tempo real.
 
-**Stack**
-
-<code>React</code> · <code>Node.js</code>
+<code>React</code> <code>Node.js</code>
 
 </td>
 </tr>
@@ -143,9 +172,7 @@ Aplicação de comunicação em tempo real.
 
 Aplicação para geração e gerenciamento de contratos.
 
-**Stack**
-
-<code>PHP</code> · <code>Laravel</code>
+<code>PHP</code> <code>Laravel</code>
 
 </td>
 
@@ -155,9 +182,7 @@ Aplicação para geração e gerenciamento de contratos.
 
 Aplicativo mobile multiplataforma.
 
-**Stack**
-
-<code>Flutter</code> · <code>Dart</code>
+<code>Flutter</code> <code>Dart</code>
 
 </td>
 </tr>
@@ -165,7 +190,7 @@ Aplicativo mobile multiplataforma.
 
 ---
 
-## 🧠 Como eu penso software
+# 🧠 Engenharia no dia a dia
 
 <div align="center">
 
@@ -173,31 +198,35 @@ Aplicativo mobile multiplataforma.
 <tr>
 <td align="center" width="25%">
 
-### 🏗️
+🏗️
+
 **Arquitetura**
 
-Responsabilidades claras e baixo acoplamento.
+Responsabilidades bem definidas e baixo acoplamento.
 
 </td>
 <td align="center" width="25%">
 
-### 🧹
+🧹
+
 **Qualidade**
 
-Código legível, testável e sustentável.
+Código legível, sustentável e fácil de evoluir.
 
 </td>
 <td align="center" width="25%">
 
-### 🔀
+🔀
+
 **Colaboração**
 
-Git, revisão de código e fluxos organizados.
+Git, revisão de código e fluxo de trabalho organizado.
 
 </td>
 <td align="center" width="25%">
 
-### 🚀
+🚀
+
 **Entrega**
 
 Automação, estabilidade e melhoria contínua.
@@ -210,113 +239,79 @@ Automação, estabilidade e melhoria contínua.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub em números
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=kowalskyjunior&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalskyjunior&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalskyjunior&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskyjunior&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
 
 </div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<a href="https://github.com/kowalskyjunior?tab=repositories">
-<img src="https://img.shields.io/github/repos/kowalskyjunior?label=REPOSITÓRIOS&style=for-the-badge&color=1F6FEB" alt="Repositórios"/>
-</a>
-
-<a href="https://github.com/kowalskyjunior?tab=stars">
-<img src="https://img.shields.io/github/stars/kowalskyjunior?label=ESTRELAS&style=for-the-badge&color=161B22" alt="Estrelas"/>
-</a>
-
-<a href="https://github.com/kowalskyjunior?tab=followers">
-<img src="https://img.shields.io/github/followers/kowalskyjunior?label=SEGUIDORES&style=for-the-badge&color=1F6FEB" alt="Seguidores"/>
-</a>
-
-<br><br>
-
-<sub>Os indicadores acima são atualizados automaticamente pelo GitHub.</sub>
-
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-**Código publicado, projetos mantidos e aprendizado contínuo.**
 
 <br>
 
-<a href="https://github.com/kowalskyjunior?tab=overview">
-<img src="https://img.shields.io/badge/VER%20MINHAS%20CONTRIBUIÇÕES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Ver contribuições"/>
-</a>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kowalskyjunior&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de atividade no GitHub"/>
 
 </div>
 
 ---
 
-## 🎓 Formação
+# 🎓 Formação & certificações
 
-### Tecnólogo em Análise e Desenvolvimento de Sistemas
+### 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 **UNINORTE**
 
 <br>
 
-### Certificações e cursos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Certificação / Curso | Instituição |
-|---|---|
-| **Front-End Web Development** | **IBM** |
-| Docker Essentials | LinuxTips |
-| Infraestrutura Web | Danki Code |
-| Computação em Nuvem | UFAC |
-| PHP Jedai | Danki Code |
-| JavaScript Completo | Danki Code |
-| Python Completo | Danki Code |
-| Webmaster Front-End | Danki Code |
-| IoT e Automação | UFAC |
+**💻 Desenvolvimento**
+
+- Front-End Web Development — **IBM**
+- Webmaster Front-End — Danki Code
+- JavaScript Completo — Danki Code
+- Python Completo — Danki Code
+- PHP Jedai — Danki Code
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ Infraestrutura & Tecnologia**
+
+- Docker Essentials — LinuxTips
+- Infraestrutura Web — Danki Code
+- Computação em Nuvem — UFAC
+- IoT e Automação — UFAC
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Minha jornada em uma frase
-
 <div align="center">
+
+# 💬 O que me move
 
 ### **Problema → Arquitetura → Código → Produto → Evolução**
 
 <br>
 
-<code>BACKEND</code> <code>FRONTEND</code> <code>MOBILE</code> <code>DATABASE</code> <code>DEVOPS</code>
+<code>BACKEND</code> · <code>FRONTEND</code> · <code>MOBILE</code> · <code>DATABASE</code> · <code>DEVOPS</code>
 
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Vamos conversar?
-
-Se o assunto envolve **software, arquitetura, desenvolvimento, produtos ou tecnologia**, vamos trocar uma ideia.
-
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/kowalskyjr">
-<img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kowalskyjunior">
-<img src="https://img.shields.io/badge/Explorar%20meus%20projetos-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VAMOS%20CONVERSAR%3F-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar"/>
 </a>
 
 <br><br>
