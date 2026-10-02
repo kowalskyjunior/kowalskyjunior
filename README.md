@@ -140,25 +140,65 @@ Do desenvolvimento da experiência e lógica da aplicação à integração com 
 
 # 🧩 Projetos selecionados
 
+<div align="center">
+
+Projetos construídos para resolver problemas reais — não apenas demonstrar tecnologias.
+
+</div>
+
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Agendamento de Salas
+## 📄 Pactum
 
-Sistema para gerenciamento e agendamento de salas.
+### Automação de contratos
 
-<code>PHP</code> <code>Laravel</code> <code>Vue</code>
+Uma aplicação para centralizar a criação, gestão e assinatura de contratos, reduzindo tarefas manuais e organizando todo o ciclo documental.
+
+**O problema**
+
+Processos contratuais espalhados, acompanhamento manual e pouca rastreabilidade.
+
+**A solução**
+
+Fluxo estruturado de contratos, assinatura digital, exportação de documentos e trilha de auditoria.
+
+**Tecnologias**
+
+<code>HTML</code> <code>JavaScript</code> <code>Tailwind</code> <code>Firebase</code>
+
+**Destaques**
+
+<code>Assinatura Digital</code> · <code>Auditoria</code> · <code>PDF</code> · <code>Firestore</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💬 Live Chat App
+## 📑 PDF Converter
 
-Aplicação de comunicação em tempo real.
+### Conversão de documentos
 
-<code>React</code> <code>Node.js</code>
+Ferramenta web para transformar diferentes formatos de arquivos em PDF de forma rápida e centralizada.
+
+**O problema**
+
+Converter diferentes tipos de arquivos normalmente exige ferramentas diferentes.
+
+**A solução**
+
+Uma única interface para receber, organizar, combinar e converter documentos.
+
+**Tecnologias**
+
+<code>JavaScript</code> <code>PDF-Lib</code> <code>Mammoth.js</code> <code>SheetJS</code>
+
+**Destaques**
+
+<code>Drag & Drop</code> · <code>DOCX</code> · <code>XLSX</code> · <code>CSV</code> · <code>Imagens</code>
 
 </td>
 </tr>
@@ -166,25 +206,69 @@ Aplicação de comunicação em tempo real.
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Contract Generator
+## ⏱️ HourKWO
 
-Aplicação para geração e gerenciamento de contratos.
+### Calculadora inteligente de jornada
 
-<code>PHP</code> <code>Laravel</code>
+Uma ferramenta criada para responder rapidamente a uma pergunta simples do dia a dia:
+
+> **"Que horas eu posso sair hoje?"**
+
+**O problema**
+
+Calcular manualmente o horário de saída considerando jornada e horas extras.
+
+**A solução**
+
+O usuário informa a entrada e recebe instantaneamente o horário de saída e uma contagem regressiva.
+
+**Tecnologias**
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PWA</code>
+
+**Destaques**
+
+<code>Tempo Real</code> · <code>Countdown</code> · <code>Mobile First</code> · <code>Offline</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💤 Zleep Baby
+## 🚚 Controle de Entregas
 
-Aplicativo mobile multiplataforma.
+### Gestão de vendas e entregas
 
-<code>Flutter</code> <code>Dart</code>
+PWA mobile-first desenvolvida para controlar operações de venda e entrega de produtos.
+
+**O problema**
+
+Controlar pedidos, clientes, produtos e faturamento sem depender de sistemas complexos.
+
+**A solução**
+
+Uma aplicação simples para registrar vendas, acompanhar entregas e visualizar resultados.
+
+**Tecnologias**
+
+<code>JavaScript</code> <code>PWA</code> <code>LocalStorage</code>
+
+**Destaques**
+
+<code>Offline</code> · <code>Histórico</code> · <code>Indicadores</code> · <code>Backup JSON</code> · <code>CSV</code>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### 🧠 Problemas diferentes. Mesma abordagem.
+
+**Entender → Estruturar → Automatizar → Entregar**
+
+</div>
 
 ---
 
