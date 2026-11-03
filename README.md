@@ -80,7 +80,7 @@ Fora do ambiente corporativo, desenvolvo produtos de ponta a ponta: **arquitetur
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=vue,react,ts,js" />
+<img src="https://skillicons.dev/icons?i=angular,vue,react,ts,js" />
 
 ### Mobile
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
