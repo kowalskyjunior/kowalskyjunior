@@ -1,121 +1,134 @@
 <div align="center">
-  <h1>Olá, eu sou o Kowalsky 👋</h1>
-  <h3>Analista de Sistemas · Desenvolvedor Full Stack · Mobile</h3>
-  <p>Construo produtos e sistemas pensando além do código — da arquitetura à experiência, do desenvolvimento à entrega.</p>
 
-  <a href="https://www.linkedin.com/in/kowalskyjr">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kowalskyjunior">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://kowalskyjunior.github.io/kowalsky_junior/">
-    <img src="https://img.shields.io/badge/Portfólio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/github/followers/kowalskyjunior?label=Seguidores&style=flat-square&color=1F6FEB" alt="Seguidores no GitHub" />
+<pre>
+┌──────────────────────────────────────────────────────────────────────────┐
+│●  ●  ●   kowalskyjunior@github                             PROFILE.README│
+├───────────────────────┬──────────────────────────────────────────────────┤
+│                       │PROFILE / SYSTEM SNAPSHOT                         │
+│        ██╗  ██╗       │──────────────────────────────────────────────────│
+│        ██║ ██╔╝       │NAME      Kowalsky Júnior                         │
+│        █████╔╝        │ROLE      Systems Analyst · Full Stack Developer  │
+│        ██╔═██╗        │COMPANY   Caixa Econômica Federal                 │
+│        ██║  ██╗       │LOCATION  Acre, Brazil                            │
+│        ╚═╝  ╚═╝       │EDUCATION Systems Analysis & Development          │
+│                       │          UNINORTE                                │
+│    K O W A L S K Y    │                                                  │
+│       FULL STACK      │STACK / TECHNOLOGIES                              │
+│     WEB  /  MOBILE    │BACKEND   PHP · Laravel · Node.js · Python        │
+│                       │FRONTEND  React · Angular · Vue                   │
+│         BUILD         │          JavaScript · TypeScript                 │
+│      ARCHITECTURE     │MOBILE    Flutter · Dart                          │
+│        DELIVERY       │DATA      MySQL · Firebase                        │
+│                       │TOOLS     Docker · Jenkins · Git · GitHub · GitLab│
+│                       │          VS Code · Postman                       │
+│                       │PRACTICE  SOLID · Clean Architecture · MVC        │
+│                       │          Design Patterns · Code Review · CI/CD   │
+├──────────────────────────────────────────────────────────────────────────┤
+│FOCUS: QUALITY                     PROBLEM > ARCHITECTURE > CODE > PRODUCT│
+└──────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+**[LINKEDIN](https://www.linkedin.com/in/kowalskyjr)**　·　**[GITHUB](https://github.com/kowalskyjunior)**　·　**[PORTFÓLIO](https://kowalskyjunior.github.io/kowalsky_junior/)**
+
+*Construo produtos e sistemas pensando além do código.*
+
 </div>
 
 ---
 
-## 🚀 Sobre mim
+<h2 align="center">01 / SELECTED WORK</h2>
 
-Sou **Analista de Sistemas e Desenvolvedor Full Stack**, com experiência em backend, frontend, desenvolvimento mobile, bancos de dados e processos de desenvolvimento.
-
-Atualmente trabalho na **Caixa Econômica Federal**, contribuindo com sistemas corporativos e práticas de engenharia de software. Também desenvolvo produtos de ponta a ponta, conectando arquitetura, código, dados, experiência e publicação.
-
-📍 Acre, Brasil  
-🎓 Análise e Desenvolvimento de Sistemas — **UNINORTE**
-
-## 🎯 No momento
-
-- 🧩 Construindo soluções Full Stack.
-- 🏗️ Aprofundando conhecimentos em arquitetura de software.
-- 📱 Explorando desenvolvimento mobile.
-- ⚙️ Praticando qualidade de código, Git e DevOps.
-
-## 🛠️ Tecnologias
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" height="38" alt="PHP, Laravel, Node.js e Python" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=angular,vue,react,ts,js" height="38" alt="Angular, Vue, React, TypeScript e JavaScript" />
-
-**Mobile**  
-<img src="https://skillicons.dev/icons?i=flutter,dart" height="38" alt="Flutter e Dart" />
-
-**Dados, DevOps e ferramentas**  
-<img src="https://skillicons.dev/icons?i=mysql,docker,jenkins,git,github,gitlab,vscode,postman" height="38" alt="MySQL, Docker, Jenkins, Git, GitHub, GitLab, VS Code e Postman" />
-
-**Práticas e conceitos**  
-`SOLID` · `Clean Architecture` · `MVC` · `Design Patterns` · `Code Review` · `CI/CD`
-
----
-
-## 📱 Projeto em destaque
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💤 Zleep Baby
+Aplicativo mobile desenvolvido de ponta a ponta com **Flutter** e **Dart**, da experiência e lógica da aplicação à integração com plataformas e publicação.
 
-Aplicativo mobile desenvolvido de ponta a ponta com **Flutter e Dart**, desde a experiência e a lógica da aplicação até as integrações e publicação nas lojas.
+[App Store](https://apps.apple.com/br/app/zleep-baby/id6758020397) · [Google Play](https://play.google.com/store/apps/details?id=br.com.zleepybaby)
 
-[![App Store](https://img.shields.io/badge/Disponível_na_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/br/app/zleep-baby/id6758020397)
-[![Google Play](https://img.shields.io/badge/Disponível_no_Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=br.com.zleepybaby)
+</td>
+<td width="50%" valign="top">
 
-## 🧩 Outros projetos
+### 📄 Pactum
+Aplicação para centralizar criação, gestão e assinatura de contratos, com fluxo estruturado, exportação de documentos e trilha de auditoria.
 
-### 📄 Pactum — Automação de contratos
+`HTML` `JavaScript` `Tailwind` `Firebase`
 
-Aplicação para centralizar a criação, gestão e assinatura de contratos, com exportação de documentos e trilha de auditoria.  
-`HTML` · `JavaScript` · `Tailwind CSS` · `Firebase`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📑 PDF Converter — Conversão de documentos
+### 📑 PDF Converter
+Ferramenta web para receber, organizar, combinar e converter diferentes formatos de arquivos em PDF.
 
-Ferramenta web para receber, organizar, combinar e converter diferentes formatos de arquivos em PDF.  
-`JavaScript` · `PDF-Lib` · `Mammoth.js` · `SheetJS` · `DOCX` · `XLSX` · `CSV`
+`JavaScript` `PDF-Lib` `Mammoth.js` `SheetJS`
 
-### ⏱️ HourKWO — Calculadora de jornada
+</td>
+<td width="50%" valign="top">
 
-Aplicação que calcula o horário de saída a partir da jornada informada e acompanha o tempo restante com uma contagem regressiva.  
-`HTML` · `CSS` · `JavaScript` · `PWA`
+### ⏱️ HourKWO
+Calculadora de jornada que informa o horário de saída e apresenta uma contagem regressiva a partir do horário de entrada.
 
-### 🚚 Controle de Entregas — Gestão de vendas e entregas
+`HTML` `CSS` `JavaScript` `PWA`
 
-PWA para registrar vendas, organizar clientes e produtos, acompanhar entregas e visualizar resultados, com suporte a uso offline e backup.  
-`JavaScript` · `PWA` · `LocalStorage` · `CSV` · `JSON`
+</td>
+</tr>
+</table>
+
+### 🚚 Controle de Entregas
+PWA mobile-first para registrar vendas, acompanhar entregas e visualizar resultados, com suporte a uso offline e backup.
+
+`JavaScript` `PWA` `LocalStorage` `JSON` `CSV`
 
 ---
 
-## 🧠 Como trabalho
+<h2 align="center">02 / ENGINEERING STACK</h2>
 
-**Arquitetura** — responsabilidades bem definidas e baixo acoplamento.  
-**Qualidade** — código legível, sustentável e fácil de evoluir.  
-**Colaboração** — Git, revisão de código e fluxo de trabalho organizado.  
-**Entrega** — automação, estabilidade e melhoria contínua.
+| ÁREA | TECNOLOGIAS |
+|:--|:--|
+| **Backend** | PHP · Laravel · Node.js · Python |
+| **Frontend** | JavaScript · TypeScript · React · Angular · Vue |
+| **Mobile** | Flutter · Dart |
+| **Dados** | MySQL · Firebase |
+| **Ferramentas** | Docker · Jenkins · Git · GitHub · GitLab · VS Code · Postman |
+| **Práticas** | SOLID · Clean Architecture · MVC · Design Patterns · Code Review · CI/CD |
 
-## 🎓 Formação e certificações
+---
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNINORTE
+<h2 align="center">03 / NOW BUILDING</h2>
 
-**Desenvolvimento**
-- Front-End Web Development — IBM
-- Webmaster Front-End — Danki Code
-- JavaScript Completo — Danki Code
-- Python Completo — Danki Code
-- PHP Jedai — Danki Code
+<div align="center">
 
-**Infraestrutura e tecnologia**
-- Docker Essentials — LinuxTips
-- Infraestrutura Web — Danki Code
-- Computação em Nuvem — UFAC
-- IoT e Automação — UFAC
+**🧩 Soluções Full Stack**　·　**🏗️ Arquitetura de Software**
+
+**📱 Desenvolvimento Mobile**　·　**⚙️ Qualidade, Git & DevOps**
+
+</div>
+
+---
+
+<h2 align="center">04 / EDUCATION & CERTIFICATIONS</h2>
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas — UNINORTE**
+
+| DESENVOLVIMENTO | INFRAESTRUTURA & TECNOLOGIA |
+|:--|:--|
+| Front-End Web Development — **IBM** | Docker Essentials — LinuxTips |
+| Webmaster Front-End — Danki Code | Infraestrutura Web — Danki Code |
+| JavaScript Completo — Danki Code | Computação em Nuvem — UFAC |
+| Python Completo — Danki Code | IoT e Automação — UFAC |
+| PHP Jedai — Danki Code | |
 
 ---
 
 <div align="center">
-  <h3>Problema → Arquitetura → Código → Produto → Evolução</h3>
-  <p><code>BACKEND</code> · <code>FRONTEND</code> · <code>MOBILE</code> · <code>DATABASE</code> · <code>DEVOPS</code></p>
-  <a href="https://www.linkedin.com/in/kowalskyjr">
-    <img src="https://img.shields.io/badge/Vamos_conversar-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar pelo LinkedIn" />
-  </a>
+
+**PROBLEMA → ARQUITETURA → CÓDIGO → PRODUTO → EVOLUÇÃO**
+
+`BACKEND`　`FRONTEND`　`MOBILE`　`DATABASE`　`DEVOPS`
+
+[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/kowalskyjr)
+
 </div>
